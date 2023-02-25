@@ -17,4 +17,4 @@ The project is still work in progress, I'm working on the following major phases
 - [ ] Inheritance
 
 ## Documentation
-There is extensive XML documentation comments wriiten inside Lox in its implementation with C#. Public APIs will be published once project finished.
+There is extensive XML documentation comments written inside Lox in its implementation with C#. Public APIs will be published once project get finished.
